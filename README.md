@@ -1,7 +1,7 @@
 About Me
 =====
   
-Heya, I'm a student at **42 Berlin**. Outside of the projects for the cor curriculum I am working on understanding more about how code becomes executable. Currently looking into how code get's compiled and linked, as well as working on a malloc rewrite to understand Heap memory better.
+Heya, I'm a student at **42 Berlin**. Outside of the projects for the Core Curriculum I am working on understanding more about how code becomes executable. Currently looking into how code get's compiled and linked, as well as working on a malloc rewrite to understand Heap memory (management) better.
 
 My other main interests are low-level programming with Assembly and reading good documentation.
 
