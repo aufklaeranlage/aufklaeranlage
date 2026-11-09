@@ -27,29 +27,29 @@ Skills
 <table>
 <tr>
   <td>Languages</td>
-  <td>[![C](https://img.shields.io/badge/C-00599C?logo=c&label=white&color=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&label=white&color=white)](#)</td>
+  <td><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&label=white&color=white"> <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&label=white&color=white"></td>
 </tr>
 <tr>
   <td>Assembly</td>
-  <td>[![NASM](https://img.shields.io/badge/Netwide%20Assembler-x86%5F64-white)](#) [![Syntax](https://img.shields.io/badge/Syntax-Intel%20%7C%20GNU-white)](#)</td>
+  <td><img alt="NASM" src="https://img.shields.io/badge/Netwide%20Assembler-x86%5F64-white"> <img alt="Syntax" src="https://img.shields.io/badge/Syntax-Intel%20%7C%20GNU-white"></td>
 </tr>
 <tr>
   <td>Build Systems</td>
-  <td>[![GNU Make](https://img.shields.io/badge/Make-gnu?logo=gnu&label=white&color=white)](#)</td>
+  <td><img alt="GNU Make" src="https://img.shields.io/badge/Make-gnu?logo=gnu&label=white&color=white"></td>
 </tr>
 <tr>
   <td>Shell script</td>
-  <td>[![GNU Bash](https://img.shields.io/badge/gnu-bash?logo=gnu-bash&label=white&color=white)](#)</td>
+  <td><img alt="GNU Bash" src="https://img.shields.io/badge/gnu-bash?logo=gnu-bash&label=white&color=white"></td>
 </tr>
 <tr>
   <td>Documentation</td>
-  <td>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&label=white&color=white)](#)</td>
+  <td><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&label=white&color=white"></td>
 </tr>
 <tr>
   <td>Containerization</td>
-  <td>[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&label=white&color=white)](#) [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-blue?logo=Docker&label=white&color=white)](#)</td>
+  <td><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&label=white&color=white"> <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-blue?logo=Docker&label=white&color=white"></td>
 </tr>
 <tr>
   <td>Version Control</td>
-  <td>[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&label=white&color=white)](#) [![git](https://img.shields.io/badge/git-23F03C2E?logo=git&label=white&color=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-232088FF?logo=githubactions&label=white&color=white)](#)</td>
+  <td><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&label=white&color=white"> <img alt="git" src="https://img.shields.io/badge/git-23F03C2E?logo=git&label=white&color=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-232088FF?logo=githubactions&label=white&color=white"></td>
 </tr>
