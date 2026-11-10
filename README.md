@@ -1,6 +1,6 @@
 # Hey there, I'm Arn Bronner
 
-My main interests are low-level programming with Assembly, C, C++ and reading good documentation. Always working on understanding how to get the most out of code and optimizing it, while keeping it understandable.
+My main interests are low-level programming with Assembly, C, C++ and reading good documentation. Always working on understanding how to get the most out of code and optimizing it, while keeping it understandable. Not just stopping at programming but also looking into the systems we use to make code.
 
 ---
 
@@ -31,6 +31,6 @@ My main interests are low-level programming with Assembly, C, C++ and reading go
 
 | **Featured Projects** | |
 | --- | --- |
-|[![nm](https://img.shields.io/badge/nm-nm?color=ebdbb2&style=for-the-badge)](https://github.com/aufklaeranlage/nm) | This rewrite of `nm` was a good exercise in understanding ELF files. How code get's saved in different forms and is understood by the system for linking and execution. |
-|[![ft_ls](https://img.shields.io/badge/ft__ls-ft__ls?style=for-the-badge&color=ebdbb2)](https://github.com/aufklaeranlage/ft_ls) | While rewriting `ls` I could learn a lot about how linux stores information about files and devices, about the general structure of the file system on linux and how to properly traverse it with the already provided functions of the standard library. |
+|[![nm](https://img.shields.io/badge/nm-nm?color=ebdbb2&style=for-the-badge)](https://github.com/aufklaeranlage/nm) | Rewriting `nm` taught me how ELF works to link files together, and create executables. How symbols get saved and how code is transformed into processes. |
+|[![ft_ls](https://img.shields.io/badge/ft__ls-ft__ls?style=for-the-badge&color=ebdbb2)](https://github.com/aufklaeranlage/ft_ls) | I learned a lot about the linux file system, it's different file types, structure and how to traverse it. |
 |[![libchooks](https://img.shields.io/badge/libchooks-libchooks?color=ebdbb2&style=for-the-badge)](https://github.com/aufklaeranlage/libchooks) | This small hooking library for dynamically linked programs taught me a lot about how linking, pre-loading etc. works. The library isn't that complicated (basically a glorified `dlsym` call) but learning more about where and how program linking happens together with the understanding of ELF from `nm` was the main takeaway for me. |
