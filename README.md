@@ -12,7 +12,7 @@ My main interests are low-level programming with Assembly, C, C++ and reading go
 
 ---
 
-| **Featured Projects** | |
+| **Featured Projects** | --- |
 | --- | --- |
 |[![nm](https://img.shields.io/badge/%7C%20%20%20nm%20%20%20%7C-%7C%20%20%20nm%20%20%20%7C?color=ebdbb2&style=for-the-badge)](https://github.com/aufklaeranlage/nm) | Rewriting `nm` taught me how ELF works to link files together, and create executables. How symbols get saved and how code is transformed into processes. |
 |[![ft_ls](https://img.shields.io/badge/%7C%20%20ft__ls%20%20%7C-%20%20ft__ls%20%20?style=for-the-badge&color=ebdbb2)](https://github.com/aufklaeranlage/ft_ls) | I learned a lot about the linux file system, it's different file types, structure and how to traverse it. |
